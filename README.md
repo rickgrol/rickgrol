@@ -1,5 +1,5 @@
 # Ricardo H. Guerrero Lara
-**AI Strategy Executive | Head of Academy (TAPI)**
+**AI Strategy Executive | Academic Director**
 
 ---
 
@@ -11,9 +11,9 @@ Technology executive and **PhD candidate in Artificial Intelligence**. I special
 ### Academic Governance | Universidad Panamericana
 As the **Head of the Academy of Information Technologies, Data Analysis, and Programming (TAPI)** for the Business Faculty, I lead the modernization of IT curricula.
 
-* **Data Committee Chair**: I preside over the collaborative space between faculty and industry leaders to ensure academic programs meet market demands.
-* **Certification Architect**: Leading the integration of **PCED** (Certified Entry-Level Data Analyst) and **PCAD** (Certified Associate Data Analyst) into undergraduate programs.
-* **Faculty Mentor**: Recruiting and mentoring professors across technical and analytical disciplines.
+* **Technical Secretary of the TIAP Committee**: I coordinate the strategic collaboration between the Faculty and industry leaders to ensure academic programs respond to current market demands.
+* **Certification Architect**: Leading the integration of international standards like **PCED** and **PCAD** into undergraduate programs to ensure professional data proficiency.
+* **Faculty Mentor**: Recruiting and mentoring faculty members across technical and analytical disciplines.
 
 ---
 
@@ -28,8 +28,8 @@ CEO and Strategic Advisor for a group of firms delivering high-impact technologi
 ---
 
 ### Technical Expertise
-* **Data Science & AI**: Python (Pandas/NumPy), SQL Server, Tableau, LLM Implementation, and ML algorithms.
-* **Engineering & Cloud**: .NET, C#, and Cloud Solutions (GCP/Azure).
+* **Data Science & AI**: Python (Pandas/NumPy), SQL Server, Tableau, LLM Implementation, and Machine Learning.
+* **Engineering & Cloud**: .NET, C#, and Cloud Architecture (GCP/Azure).
 * **Management**: Strategic Planning, Corporate Governance, and PMO Leadership.
 
 ---
